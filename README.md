@@ -1,5 +1,4 @@
 # SCT_TrackCode_2
-# SCT_TrackCode_2
 📊 Mall Customer Segmentation Using K-Means Clustering
 
 🧩 Project Overview
